@@ -1,0 +1,562 @@
+[
+  {
+    "id": "usr-dir-1",
+    "name": "Prof. (Dr.) Nitin Rakesh",
+    "email": "director@sitnagpur.siu.edu.in",
+    "role": "hod",
+    "department": "Symbiosis Institute of Technology (SIT), Nagpur",
+    "designation": "Director & Senior Professor",
+    "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80",
+    "bio": "**Dr. Nitin** is a **professionally acclaimed leader in AI, Policy, and Governance in Higher Education**, and a widely respected **Keynote Speaker and Higher Education Leader** with extensive experience in academic leadership, research excellence, teaching innovation, institutional governance, and industry\u2013academia collaboration. He is recognized for his strategic contributions to **policy-driven education reforms, technology-enabled governance frameworks**, and the **integration of artificial intelligence** in academic planning, quality assurance, and outcome-based education.\n\nHe is a proud recipient of the **IBM Drona Award**, a prestigious honor recognizing excellence in teaching, academic leadership, and impactful contributions to education and research.Dr. Nitin is an active member of several internationally reputed professional societies.\n\nHe is a **Senior Member of IEEE (USA)** and a professional member of **ACM** and **SIAM (USA)**. He also holds **Life Membership of the Computer Society of India (CSI)** and is associated with multiple national and international professional bodies, contributing to academic governance, research dissemination, curriculum design, and professional development initiatives.",
+    "qualification": "Ph.D.",
+    "publications_count": 12,
+    "patents_count": 1,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Artificial Intelligence",
+      "Software Systems"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-dep-1",
+    "name": "Dr. Sandeep Kumar",
+    "email": "deputy.director@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Deputy Director & Professor",
+    "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80",
+    "bio": "Dr. Sandeep Kumar is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-hod-1",
+    "name": "Dr. Sagarkumar Shridhar Badhiye",
+    "email": "hod.cse@sitnagpur.siu.edu.in",
+    "role": "hod",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "HOD (CSE) & Associate Professor",
+    "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80",
+    "bio": "Dr. Sagarkumar Shridhar Badhiye is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-1",
+    "name": "Dr. Snehlata Wankhade",
+    "email": "snehlata.wankhade@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Assistant Professor (Senior Scale)",
+    "avatar_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80",
+    "bio": "Dr. Snehlata Wankhade is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-2",
+    "name": "Dr. Shreyas Rajendra Hole",
+    "email": "shreyas.hole@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Assistant Professor (Ph.D. AI/ML)",
+    "avatar_url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=120&q=80",
+    "bio": "Dr. Shreyas Rajendra Hole is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-3",
+    "name": "Dr. Bhupesh Kumar Dewangan",
+    "email": "bhupesh.dewangan@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Associate Professor",
+    "avatar_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=120&q=80",
+    "bio": "Dr. Bhupesh Kumar Dewangan is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-4",
+    "name": "Dr. Parul Dubey",
+    "email": "parul.dubey@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Assistant Professor (AWS Certified)",
+    "avatar_url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=120&q=80",
+    "bio": "Dr. Parul Dubey is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-5",
+    "name": "Dr. Akhil Gupta",
+    "email": "akhil.gupta@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Electronics & Telecommunication, SIT Nagpur",
+    "designation": "Associate Professor",
+    "avatar_url": null,
+    "bio": "Dr. Akhil Gupta is an esteemed faculty member in Department of Electronics & Telecommunication, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-6",
+    "name": "Dr. Deepak Suresh Asudani",
+    "email": "deepak.suresh.asudani@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Electronics & Telecommunication, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr. Deepak Suresh Asudani is an esteemed faculty member in Department of Electronics & Telecommunication, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-7",
+    "name": "Dr. Giridhar Urkude",
+    "email": "giridhar.urkude@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr. Giridhar Urkude is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-8",
+    "name": "Dr. Gopal Kumar Gupta",
+    "email": "gopal.kumar.gupta@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Applied Sciences & Humanities, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr. Gopal Kumar Gupta is an esteemed faculty member in Department of Applied Sciences & Humanities, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-9",
+    "name": "Dr. Harshala Shingne",
+    "email": "harshala.shingne@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Applied Sciences & Humanities, SIT Nagpur",
+    "designation": "HOD & Associate Professor",
+    "avatar_url": null,
+    "bio": "Dr. Harshala Shingne is an esteemed faculty member in Department of Applied Sciences & Humanities, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-10",
+    "name": "Dr Mohankumar N",
+    "email": "mohankumar.n@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr Mohankumar N is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "M.Tech (CSE)",
+    "publications_count": 5,
+    "patents_count": 0,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "8+ Years"
+  },
+  {
+    "id": "usr-fac-11",
+    "name": "Prof. Monali Gulhane",
+    "email": "monali.gulhane@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Assistant Professor",
+    "avatar_url": null,
+    "bio": "Prof. Monali Gulhane is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "M.Tech (CSE)",
+    "publications_count": 5,
+    "patents_count": 0,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "8+ Years"
+  },
+  {
+    "id": "usr-fac-12",
+    "name": "Dr Nikhil S Mangrulkar",
+    "email": "nikhil.s.mangrulkar@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Assistant Professor",
+    "avatar_url": null,
+    "bio": "Dr Nikhil S Mangrulkar is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "M.Tech (CSE)",
+    "publications_count": 5,
+    "patents_count": 0,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "8+ Years"
+  },
+  {
+    "id": "usr-fac-13",
+    "name": "Dr. Nilesh Manoharrao Shelke",
+    "email": "nilesh.manoharrao.shelke@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Civil Engineering, SIT Nagpur",
+    "designation": "Associate Professor",
+    "avatar_url": null,
+    "bio": "Dr. Nilesh Manoharrao Shelke is an esteemed faculty member in Department of Civil Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-14",
+    "name": "Dr. Pawan Kumar Verma",
+    "email": "pawan.kumar.verma@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Associate Professor",
+    "avatar_url": null,
+    "bio": "Dr. Pawan Kumar Verma is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-15",
+    "name": "Dr. Pradnya Sulas Borkar",
+    "email": "pradnya.sulas.borkar@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Associate Professor",
+    "avatar_url": null,
+    "bio": "Dr. Pradnya Sulas Borkar is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-16",
+    "name": "Dr. Pramod Kumar Pandey",
+    "email": "pramod.kumar.pandey@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Applied Sciences & Humanities, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr. Pramod Kumar Pandey is an esteemed faculty member in Department of Applied Sciences & Humanities, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-17",
+    "name": "Dr. Pratik Agarwal",
+    "email": "pratik.agarwal@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr. Pratik Agarwal is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-18",
+    "name": "Dr Praveen Kumar Dhankar",
+    "email": "praveen.kumar.dhankar@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Applied Sciences & Humanities, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr Praveen Kumar Dhankar is an esteemed faculty member in Department of Applied Sciences & Humanities, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "M.Tech (CSE)",
+    "publications_count": 5,
+    "patents_count": 0,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "8+ Years"
+  },
+  {
+    "id": "usr-fac-19",
+    "name": "Dr. Princy Diwan",
+    "email": "princy.diwan@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr. Princy Diwan is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-20",
+    "name": "Dr. Priya Dasarwar",
+    "email": "priya.dasarwar@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr. Priya Dasarwar is an esteemed faculty member in Department of Computer Science & Engineering, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-21",
+    "name": "Dr. Purushottam Deorao Shobhane",
+    "email": "purushottam.deorao.shobhane@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Applied Sciences & Humanities, SIT Nagpur",
+    "designation": "Professor",
+    "avatar_url": null,
+    "bio": "Dr. Purushottam Deorao Shobhane is an esteemed faculty member in Department of Applied Sciences & Humanities, SIT Nagpur at Symbiosis Institute of Technology, Nagpur.",
+    "qualification": "Ph.D.",
+    "publications_count": 14,
+    "patents_count": 2,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "14+ Years"
+  },
+  {
+    "id": "usr-fac-22",
+    "name": "Prof. Sarvat Ali",
+    "email": "sarvat.ali@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Assistant Professor",
+    "avatar_url": null,
+    "bio": "Prof. Sarvat Ali is an Assistant Professor in Computer Science & Engineering at SIT Nagpur, actively leading First Year B.Tech curriculum delivery, Python programming labs, and student mentoring for the 2026-30 batch.",
+    "qualification": "M.Tech (CSE)",
+    "publications_count": 5,
+    "patents_count": 0,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "8+ Years"
+  },
+  {
+    "id": "usr-fac-23",
+    "name": "Prof. Mrudula Nimbarte",
+    "email": "mrudula.nimbarte@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Assistant Professor",
+    "avatar_url": null,
+    "bio": "Prof. Mrudula Nimbarte is an Assistant Professor at SIT Nagpur specializing in Object-Oriented Software Design, Python Systems, and academic coordination.",
+    "qualification": "M.Tech (CSE)",
+    "publications_count": 5,
+    "patents_count": 0,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "8+ Years"
+  },
+  {
+    "id": "usr-fac-24",
+    "name": "Prof. Ansar Isak Sheikh",
+    "email": "ansar.sheikh@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Assistant Professor",
+    "avatar_url": null,
+    "bio": "Prof. Ansar Isak Sheikh is an Assistant Professor in CSE at SIT Nagpur specializing in Database Management, Web Technologies, and student laboratory instructions.",
+    "qualification": "M.Tech (CSE)",
+    "publications_count": 5,
+    "patents_count": 0,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "8+ Years"
+  },
+  {
+    "id": "usr-fac-25",
+    "name": "Prof. Ashwini Zadgaonkar",
+    "email": "ashwini.zadgaonkar@sitnagpur.siu.edu.in",
+    "role": "faculty",
+    "department": "Department of Computer Science & Engineering, SIT Nagpur",
+    "designation": "Assistant Professor",
+    "avatar_url": null,
+    "bio": "Prof. Ashwini Zadgaonkar is an Assistant Professor in CSE at SIT Nagpur focusing on Programming Methodologies, Data Structures, and first-year academic mentorship.",
+    "qualification": "M.Tech (CSE)",
+    "publications_count": 5,
+    "patents_count": 0,
+    "research_interests": [
+      "Computer Science & Engineering",
+      "Data Structures & Algorithms",
+      "AI/ML"
+    ],
+    "office_location": "Academic Block A, SIT Nagpur Campus",
+    "experience_years": "8+ Years"
+  }
+]

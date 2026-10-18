@@ -1,0 +1,762 @@
+[
+  {
+    "code": "TE7680",
+    "title": "Mathematics-I",
+    "credits": 3,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "TE7680_Mathematics-I.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Applied Sciences",
+    "objectives": [
+      "Apply successive differentiation to find nth derivative of product of two functions, to",
+      "Apply the concepts of partial differentiation to solve problems on homogeneous",
+      "Find the rank of a matrix and solve system of simultaneous equations.",
+      "Find Eigen values and Eigen vectors,apply Caley-Hamilton theorem to find inverse and"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7248",
+    "title": "Nanotechnology: Concepts, Fabrication, and Emerging Applications",
+    "credits": 3,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "TEE7248_Nanotechnology Concepts Fabrication and Emerging Applications.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Applied Sciences",
+    "objectives": [
+      "explain key concepts of"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7251",
+    "title": "Physics for Quantum Computing",
+    "credits": 3,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "TEE7251_Physics for Quantum Computing.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Applied Sciences",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7289",
+    "title": "Academic Writing Skills",
+    "credits": 2,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "TEE7289_Academic Writing Skills.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7300",
+    "title": "Programming in C",
+    "credits": 4,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "TEE7300_Programming in C.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7305",
+    "title": "Tinker Lab for Computer Science",
+    "credits": 2,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "TEE7305_Tinker Lab for Computer Science.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "THM6137",
+    "title": "Environmental Science Lab: Analysing Water and Soil Quality",
+    "credits": 1,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "THM6137_Environmental Science Lab Analysing Water and Soil Quality.pdf",
+    "faculty_dept": "Humanities and Social Sciences",
+    "specialization": "Multidisciplinary",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "THM6144",
+    "title": "Indian Knowledge Systems",
+    "credits": 2,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "THM6144_Indian Knowledge Systems.pdf",
+    "faculty_dept": "Humanities and Social Sciences",
+    "specialization": "Philosophy",
+    "objectives": [
+      "Textbook on IKS Prof.",
+      "Echoes of Ancient Indian Wisdom 3.",
+      "The education system of Ancient hindus 4."
+    ],
+    "page_count": 3
+  },
+  {
+    "code": "THM6145",
+    "title": "Aptitude and Reasoning- I",
+    "credits": 3,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "THM6145_Aptitude and Reasoning- I.pdf",
+    "faculty_dept": "Humanities and Social Sciences",
+    "specialization": "Statistics, Applied Statistics and Mathematics",
+    "objectives": [
+      "solve quantitative aptitude problems related to arithmetic,",
+      "apply critical thinking and logical reasoning to solve verbal and"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "THM6150",
+    "title": "Technical and Professional Communication Skills",
+    "credits": 1,
+    "semester_folder": "Semester 1 (Batch 2026-30)",
+    "filename": "THM6150_Technical and Professional Communication Skills.pdf",
+    "faculty_dept": "Humanities and Social Sciences",
+    "specialization": "Transferable Skills and Communication",
+    "objectives": [
+      "enhance reading comprehension skills, build vocabulary and",
+      "strengthen verbal, non-verbal, and technical writing skills",
+      "communicate with accuracy, brevity & incorporate the 7 C\"s of",
+      "create well organized slides and deliver effective structured"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "T6760",
+    "title": "T6760",
+    "credits": 3,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "10. Introduction to Indian Philosophy_T6760.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE",
+    "objectives": [],
+    "page_count": 3
+  },
+  {
+    "code": "T7996",
+    "title": "Computer Organization",
+    "credits": 3,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "2. Computer Organization_T7996.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Computer Science",
+    "objectives": [],
+    "page_count": 3
+  },
+  {
+    "code": "T2646",
+    "title": "Entrepreneurship Venture                   Course No. ENTRE U 1",
+    "credits": 3,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "7. Entrepreneurship Venture_T2646.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE",
+    "objectives": [],
+    "page_count": 3
+  },
+  {
+    "code": "T6872",
+    "title": "Foundation of Ethics",
+    "credits": 1,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "9. Foundation of Ethics_T6872.pdf",
+    "faculty_dept": "Humanities and Social Sciences",
+    "specialization": "Philosophy",
+    "objectives": [
+      "To understand the tenets of ethics as a  part of daily life.",
+      "To gain knowledge on ethical theories.",
+      "To reason clearly and precisely about ethical and moral issues in professional life",
+      "To resolve moral conflicts in professional life"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TE7943",
+    "title": "Full Stack Development",
+    "credits": 3,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "TE7943_Full Stack Development.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Artificial Intelligence and Machine Learning",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7294",
+    "title": "Introduction to Cyber Security",
+    "credits": 2,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "TEE7294_Introduction to Cyber Security.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7317",
+    "title": "Microcontrollers and Sensors",
+    "credits": 3,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "TEE7317_Microcontrollers and Sensors.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Electronics and Telecommunication",
+    "objectives": [
+      "Comprehend different circuit components used in sensors and microcontrollers.",
+      "Differentiate between various types of sensors, describing their basic",
+      "Interpret the output of different sensors using microcontrollers.",
+      "Understand and analyze the Internet of Things (IoT) ecosystem and"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7411",
+    "title": "Aptitude and Reasoning Skills III",
+    "credits": 1,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "TEE7411_Aptitude and Reasoning Skills III.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Applied Sciences",
+    "objectives": [
+      "solve quantitative aptitude problems related to arithmetic,",
+      "apply critical thinking and logical reasoning to solve verbal and"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7412",
+    "title": "Discrete Mathematics and Graph Theory",
+    "credits": 3,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "TEE7412_Discrete Mathematics and Graph Theory.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Applied Sciences",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7451",
+    "title": "Design and Analysis of Algorithms",
+    "credits": 4,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "TEE7451_Design and Analysis of Algorithms.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 3
+  },
+  {
+    "code": "TEE7454",
+    "title": "Machine Learning Fundamentals",
+    "credits": 2,
+    "semester_folder": "Semester 3 (Batch 2025-29)",
+    "filename": "TEE7454_Machine Learning Fundamentals.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7125",
+    "title": "Data Compression",
+    "credits": 4,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "1. Data Compression_TEE7125.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TE7810",
+    "title": "Industrial Revolution and Introduction of Industry 5.0",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "10. Industrial Revolution and Introduction of Industry 5.0_TE7810.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Mechanical Engineering",
+    "objectives": [
+      "0 and virtual reality, augmented reality and"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "T7650",
+    "title": "Six sigma",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "11. Six Sigma_T7650.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Mechanical Engineering",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "T7908",
+    "title": "Computer Networks",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "2. Computer Networks_T7908.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Computer Science",
+    "objectives": [
+      "Network Security Essentials,3rd edition William Stallings PEARSON"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "T7482",
+    "title": "Computer Networks Lab",
+    "credits": 1,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "3. Computer Networks Lab_T7482.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Computer Science",
+    "objectives": [
+      "Computer Communications and"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TE7751",
+    "title": "Compiler Construction",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "4. Compiler Construction_TE7751.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [
+      "Analyze the role of a parser; categorize parser types with its implementation",
+      "Test syntax directed definitions on the basis of attribute types.",
+      "Distinguish various types of storage organization and allocation strategies in run time"
+    ],
+    "page_count": 3
+  },
+  {
+    "code": "T7478",
+    "title": "Compiler Construction Lab",
+    "credits": 1,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "5. Compiler Construction Lab_T7478.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Computer Science",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "T3013",
+    "title": "Javascript",
+    "credits": 2,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "6. Javascript_T3013.pdf",
+    "faculty_dept": "Computer Studies",
+    "specialization": "Application Programming",
+    "objectives": [],
+    "page_count": 1
+  },
+  {
+    "code": "TE7952",
+    "title": "User Interface and Experience Design",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "7. User Interface and Experience Design_TE7952.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Computer Science",
+    "objectives": [
+      "Understand iterative user-centered design of graphical user interfaces",
+      "Apply the user Interfaces to different devices and requirements",
+      "Create high quality professional documents and artifacts related to the design"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TE7428",
+    "title": "Introduction to Image Processing",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "8. Introduction to Image Processing_TE7428.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Electronics and Telecommunication",
+    "objectives": [],
+    "page_count": 3
+  },
+  {
+    "code": "TEE7018",
+    "title": "Engineering Simulation and Modeling Tools",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "9. Engineering Simulation and Modeling Tools_TEE7018.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Electronics and Telecommunication",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "Faculty",
+    "title": "Agentic AI & Automation",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "Agentic AI and Automation.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Computer Science",
+    "objectives": [],
+    "page_count": 4
+  },
+  {
+    "code": "T3761",
+    "title": "Data Mining",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "Data Mining_T3761.pdf",
+    "faculty_dept": "Computer Studies",
+    "specialization": "Data Science",
+    "objectives": [
+      "To enable the students understand the role of data mining in todays perspective.",
+      "To help students the"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7167",
+    "title": "Soft Computing",
+    "credits": 3,
+    "semester_folder": "Semester 5 (Batch 2024-28)",
+    "filename": "Soft Computing_TEE7167.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Computer Science",
+    "objectives": [
+      "Upon successful completion of the course, students will have an understanding of the",
+      "Provide the mathematical background for carrying out the optimization associated with",
+      "Aim of this course is to develop some familiarity with current research problems and"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TE7253",
+    "title": "Data Science",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "5. Data Science_TE7253.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Computer Science",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TE7282",
+    "title": "Optimization Techniques and Algorithms",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "6. Optimization Techniques and Algorithms_TE7282.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "Computer Science",
+    "objectives": [
+      "Explain the use of optimization techniques and understand formulation of design",
+      "Understand the use of modern optimization techniques",
+      "Explain Genetic Algorithm and its application to various engineering problems",
+      "Explain Particle Swarm Optimization and Cohort Intelligence Optimization and its"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "T6774",
+    "title": "T6774",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "Principles of Economics_T6774.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE",
+    "objectives": [],
+    "page_count": 4
+  },
+  {
+    "code": "T3056",
+    "title": "Wireless Networks",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "T3056_Wireless Networks.pdf",
+    "faculty_dept": "Computer Studies",
+    "specialization": "IT Infrastructure Management",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "T3366",
+    "title": "Predictive Analytics",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "T3366_Predictive Analytics.pdf",
+    "faculty_dept": "Computer Studies",
+    "specialization": "Data Science",
+    "objectives": [
+      "Data Mining for Business Intelligence",
+      "Predictive Analytics and Data Mining"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "T3367",
+    "title": "Social Media Analytics",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "T3367_Social Media Analytics.pdf",
+    "faculty_dept": "Computer Studies",
+    "specialization": "Data Science",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "T3675",
+    "title": "Business Intelligence",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "T3675_Business Intelligence.pdf",
+    "faculty_dept": "Computer Studies",
+    "specialization": "IT Systems for Management",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "T3930",
+    "title": "Healthcare Analytics",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "T3930_Healthcare Analytics.pdf",
+    "faculty_dept": "Computer Studies",
+    "specialization": "Artificial Intelligence",
+    "objectives": [
+      "The New HR Analytics: Predicting the"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TE7484",
+    "title": "Computer Vision",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TE7484_Computer Vision.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TE7554",
+    "title": "Big Data Analytics Lab",
+    "credits": 1,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TE7554_Big Data Analytics Lab.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [
+      "To solve Big Data problems using Map Reduce Technique.",
+      "To design algorithms that uses Map Reduce Technique to apply on Unstructured and",
+      "To learn Hive and Pig Latin querying."
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TE7945",
+    "title": "Big Data Analytics",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TE7945_Big Data Analytics.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [
+      "To explore tools and practices for working with big data.",
+      "To learn about stream computing.",
+      "To know about the research that requires the integration of large amounts of data."
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7116",
+    "title": "Business Analytics with Cloud",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7116_Business Analytics with Cloud.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 3
+  },
+  {
+    "code": "TEE7120",
+    "title": "Container and Serverless Computing",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7120_Container and Serverless Computing.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [
+      "This course provides the introduction to the concepts of cloud computing, its",
+      "The course will provide the ability to understand the fundamentals of how",
+      "Docker Deep Dive Nigel Poulton Nigel Poulton, 2018."
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7124",
+    "title": "Cyber Security in Cloud",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7124_Cyber Security in Cloud.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [
+      "This course provides the ground-up coverage on the high- level concepts of cloud",
+      "The course will describe the Cloud security architecture and explore the guiding"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7127",
+    "title": "Deep Learning and Its Applications",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7127_Deep Learning and Its Applications.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7128",
+    "title": "Deep Learning and Its Applications Lab",
+    "credits": 1,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7128_Deep Learning and Its Applications Lab.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7132",
+    "title": "Disaster Recovery and Backup Storage in Cloud",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7132_Disaster Recovery and Backup Storage in Cloud.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7134",
+    "title": "Drones in IoT",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7134_Drones in IoT.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [
+      "Drones in IoT-enabled Spaces Fadi Al-Turjman CRC Press"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7137",
+    "title": "Fog Computing and IoT",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7137_Fog Computing and IoT.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7142",
+    "title": "Image Processing with IoT",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7142_Image Processing with IoT.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7143",
+    "title": "Industrial IoT 4.0",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7143_Industrial IoT 40.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7144",
+    "title": "Information Security and Audit Monitoring",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7144_Information Security and Audit Monitoring.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [
+      "Cryptography Engineering: Design"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7161",
+    "title": "Penetration Testing",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7161_Penetration Testing.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [
+      "Students will learn fundamentals of penetration testing via lectures and assignments.",
+      "Students will investigate various problem and regulation of penetration testing"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7163",
+    "title": "Recommender Systems",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7163_Recommender Systems.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [
+      "To introduce fundamental techniques in recommender systems.",
+      "To introduce the",
+      "To become familiar with to various approaches for"
+    ],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7164",
+    "title": "Robotics and Intelligent Systems",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7164_Robotics and Intelligent Systems.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  },
+  {
+    "code": "TEE7169",
+    "title": "Web and Text Analysis",
+    "credits": 3,
+    "semester_folder": "Semester 7 (Batch 2023-27)",
+    "filename": "TEE7169_Web and Text Analysis.pdf",
+    "faculty_dept": "Engineering",
+    "specialization": "CSE and IT",
+    "objectives": [],
+    "page_count": 2
+  }
+]
