@@ -307,7 +307,6 @@ internal-marks-system/
 │   ├── 11_appearance_theme_settings.png
 │   ├── 12_computer_networks_sheet.png
 │   └── sit_logo.png
-├── HACKATHON_DEFENSE_GUIDE.md             # 25 Evaluator Q&As & technical defense script
 ├── .gitignore                             # Clean git ignore rules
 └── README.md                              # This documentation file
 ```
